@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+*.json.snapshot
+.DS_Store
+/audit*.json
+/*-audit.json
